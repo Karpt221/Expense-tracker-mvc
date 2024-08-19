@@ -1,1 +1,1 @@
-# Expense-tracker-mvc
+# expense-tracker-mvc
